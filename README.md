@@ -3,6 +3,8 @@ Programa de Formação - IDS
 
 Linguagem utilizada - Java
 
+Obs: Códigos estão na Master
+
 Desafio 01
 Dado uma palavra qualquer p, construa um algoritmo que calcule a pontuação da palavra de acordo com a pontuação informada na tabela em questão:
 
